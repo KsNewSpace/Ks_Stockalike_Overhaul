@@ -20,7 +20,7 @@ To download a mod on Github check the right side for "Releases". There you can d
   - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
 - [Volumetric Cloud v3](https://www.patreon.com/posts/true-volumetric-87982960) (I use v5 but that one is paywalled.)
 - [ParallaxContinued](https://github.com/Gameslinx/Parallax-Continued/) (Greatly improved ground scatter and parallax effects for all planets)
-  - - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Configs to properly mask out your custom KSC from ground scatters)
+  - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Optional configs to properly mask out your custom KSC from ground scatters for 2.7x scale)
 - [Firefly](https://github.com/M1rageDev/Firefly/) (Revamped reentry effects)
 - [Waterfall](https://github.com/post-kerbin-mining-corporation/Waterfall) (Framework for new engine effects that expand with atmospheric pressure)
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
@@ -36,6 +36,8 @@ To download a mod on Github check the right side for "Releases". There you can d
 
 # Functional
 
+- [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size)
+  - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Includes my 2.7x configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
 - [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) (Allows you to place structures on planets. For example new runways and buildings)
   - [KSCEnhanced](https://spacedock.info/mod/3654/KSC%20Enhanced%20-%20JNSQ) (Expands KSC with more runways, launch pads and overall fuller design)
@@ -57,6 +59,7 @@ To download a mod on Github check the right side for "Releases". There you can d
 # Mod Dependencies
 
 - [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
+- [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements) (Helps to replace things like the skybox, menus, etc)
 - [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) (KSC parts that can be used by Kerbal Konstructs)
 - [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads that can be used by Kerbal Konstrukts
 - [Toolbar Control](https://github.com/linuxgurugamer/ToolbarControl) (Helps mods to manage toolbar icons)
