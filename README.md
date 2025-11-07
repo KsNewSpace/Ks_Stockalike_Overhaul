@@ -3,7 +3,7 @@ KSP Stockalike Overhaul
 ***A list of mods to overhaul Kerbal Space Program without changing the core gameplay too much***
 **by** *Lukas K. aka KsNewSpace*
 
-## Caution: Wrok in Progress
+## Caution: Work in Progress
 ***Please check every mod for dependencies in case I forget to list them***
 
 ![image](screenshots/bonkers.jpg)
