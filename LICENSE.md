@@ -1,1 +1,1 @@
-All Rights Reserved.
+I have no clue about licensing. Use common sense! All Rights Reserved.
