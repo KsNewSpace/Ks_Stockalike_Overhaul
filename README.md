@@ -37,7 +37,7 @@ To download a mod on Github check the right side for "Releases". There you can d
 # Functional
 
 - [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size)
-  - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Includes my 2.7x configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
+  - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Optional 2.7x scale configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
 - [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) (Allows you to place structures on planets. For example new runways and buildings)
   - [KSCEnhanced](https://spacedock.info/mod/3654/KSC%20Enhanced%20-%20JNSQ) (Expands KSC with more runways, launch pads and overall fuller design)
