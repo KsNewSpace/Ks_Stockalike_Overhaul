@@ -55,6 +55,8 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 ## Functional
 
+- [Kopernicus](https://github.com/kopernicus/kopernicus/) (Allows changing of the planetary system)
+  - [Kopernicus Expansion](https://github.com/VabienArt/KopernicusExpansion-Continueder) (More tools for modders)
 - [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size)
   - [Parallax Mask KSC](https://github.com/KsNewSpace/Parallax_MaskKSC) (Optional 2.7x scale configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
