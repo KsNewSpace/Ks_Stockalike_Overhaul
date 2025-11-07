@@ -101,6 +101,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 ![image](screenshots/fighter_jet_01.jpg)
 ![image](screenshots/parachute.jpg)
 ![image](screenshots/shiny_01.jpg)
+![image](screenshots/polar_launch.jpg)
 ![image](screenshots/black_hawk_01.jpg)
 ![image](screenshots/black_hawk_02.jpg)
 ![image](screenshots/soyuz6x.jpg)
