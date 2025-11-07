@@ -18,6 +18,10 @@ To download a mod on Github check the right side for "Releases". There you can d
 
 My goal is to bring KSP to 2025 without changing the core gameplay loop too much. The 2.7x rescale makes it a bit more difficult to get around but it works perfectly fine with stock parts. In fact, I think the stock parts are designed for this particular size. They are just OP on 1x, especially the bigger tanks and engines. For the number people: Getting to orbit around Kerbin requires just shy of 4000 m/s DeltaV. Mostly payloads will become smaller and more realistic looking. If you want giant rovers and colonies better prepare for some orbital construction and fuel depots :)
 
+## Common Folder Structure
+
+> SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Parallax_MaskKSC (or any other mod folder name)
+
 # Official Channels
 
 - Tip Jar: [KsNewSpace.shop](https://ksnewspace.shop/) <3
