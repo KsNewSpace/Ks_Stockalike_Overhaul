@@ -89,7 +89,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - Technicolor - bundles with RestockPBR
 - ...
 
-To be continued!
+## To Be Continued...
   
 ![image](screenshots/modlist_110625.jpg)
 
