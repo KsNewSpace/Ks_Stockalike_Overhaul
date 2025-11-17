@@ -1,4 +1,4 @@
-K's Stockalike Overhaul for KSP (WIP)
+K's Stockalike Overhaul for KSP & 2.7x Rescale (WIP)
 =======================
 ***A list of mods to overhaul Kerbal Space Program without changing the core gameplay too much***
 
