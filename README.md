@@ -57,19 +57,20 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 ## Functional
 
-- [Kopernicus](https://github.com/kopernicus/kopernicus/) (Allows changing of the planetary system)
-  - [Kopernicus Expansion](https://github.com/VabienArt/KopernicusExpansion-Continueder) (More tools for modders)
-- [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size)
-  - [K's Mask KSC](https://github.com/KsNewSpace/Ks_MaskKSC) (Optional 2.7x scale configs. 2.7x for me is the perfect size to use the stock overpowered parts.)
-- [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
-- [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) (Allows you to place structures on planets. For example new runways and buildings)
-  - [KSCEnhanced](https://spacedock.info/mod/3654/KSC%20Enhanced%20-%20JNSQ) (Expands KSC with more runways, launch pads and overall fuller design)
-- [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree) (Integrates parts added by many mods into the Tech Tree)
-- [CameraTools](https://github.com/BrettRyland/CameraTools) (Move the ingame camera freely for epic shots. I also use it for the smooth following camera on planes (Dogfight))
-- [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) (Puts real stars into the sky you can hover over to check their names and more)
-- [Physics Hold](https://github.com/gotmachine/PhysicsHold) (Allows you to turn off physics of large craft for better performance (stations). Docking still works!)
-- [kRPC](https://github.com/krpc/krpc) (Allows you to connect to and play KSP from the "outside" using code. [Docs](https://krpc.github.io/krpc/))
-- [Kronometer](https://github.com/linuxgurugamer/Kronometer/) (Allows you to manipulate the clock in KSP)
+- [Kopernicus](https://github.com/kopernicus/kopernicus/) Allows changing of the planetary system
+  - [Kopernicus Expansion](https://github.com/VabienArt/KopernicusExpansion-Continueder) More tools for modders
+- [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions) (Scaling Kerbin and the Kerbol system to a new size
+  - [K's Mask KSC](https://github.com/KsNewSpace/Ks_MaskKSC) Optional 2.7x scale configs. 2.7x for me is the perfect size to use the stock overpowered parts.
+- [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) allows crafts to maintain their rotation / aim during time warp
+- [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) Allows you to place structures on planets. For example new runways and buildings
+  - [KSCEnhanced](https://spacedock.info/mod/3654/KSC%20Enhanced%20-%20JNSQ) Expands KSC with more runways, launch pads and overall fuller design
+- [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree) Integrates parts added by many mods into the Tech Tree
+- [CameraTools](https://github.com/BrettRyland/CameraTools) Move the ingame camera freely for epic shots. I also use it for the smooth following camera on planes (Dogfight)
+- [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) Puts real stars into the sky you can hover over to check their names and more
+- [Physics Hold](https://github.com/gotmachine/PhysicsHold) Allows you to turn off physics of large craft for better performance (stations). Docking still works!
+- [kRPC](https://github.com/krpc/krpc) Allows you to connect to and play KSP from the "outside" using code. [Docs](https://krpc.github.io/krpc/)
+- [Kronometer](https://github.com/linuxgurugamer/Kronometer/) Allows you to manipulate the clock in KSP
+- [Magnet Boots](https://github.com/misterblusky9/G3MagnetBoots) KSP2-esque magnetic boots to walk on crafts in space!  
 - ...
 
 ## Quality of Life
