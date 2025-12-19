@@ -82,15 +82,15 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 
 ## Mod Dependencies
 
-- [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
-- [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements) (Helps to replace things like the skybox, menus, etc)
-- [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) (KSC parts that can be used by Kerbal Konstructs)
+- [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg
+- [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements) Helps to replace things like the skybox, menus, etc
+- [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) KSC parts that can be used by Kerbal Konstructs
 - [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads that can be used by Kerbal Konstrukts
-- [Toolbar Control](https://github.com/linuxgurugamer/ToolbarControl) (Helps mods to manage toolbar icons)
-- [Shabby](https://github.com/KSPModdingLibs/Shabby) (Shader assets bundle loader)
-- [Harmony](https://github.com/KSPModdingLibs/HarmonyKSP) (Tools for modders)
-- [KSP Burst](https://github.com/KSPModdingLibs/KSPBurst/) (Burst compiler to make mods run better & cross platform)
-- [SpaceTuxLibrary](https://github.com/linuxgurugamer/SpaceTuxLibrary) (useful functions for mods like color pickers)
+- [Toolbar Control](https://github.com/linuxgurugamer/ToolbarControl) (Helps mods to manage toolbar icons
+- [Shabby](https://github.com/KSPModdingLibs/Shabby) Shader assets bundle loader
+- [Harmony](https://github.com/pardeike/Harmony) Tools for modders
+- [KSP Burst](https://github.com/KSPModdingLibs/KSPBurst/) Burst compiler to make mods run better & cross platform
+- [SpaceTuxLibrary](https://github.com/linuxgurugamer/SpaceTuxLibrary) useful functions for mods like color pickers
 - Technicolor - bundles with RestockPBR
 - ...
 
