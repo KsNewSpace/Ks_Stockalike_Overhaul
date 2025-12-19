@@ -88,7 +88,7 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
 - [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads that can be used by Kerbal Konstrukts
 - [Toolbar Control](https://github.com/linuxgurugamer/ToolbarControl) (Helps mods to manage toolbar icons
 - [Shabby](https://github.com/KSPModdingLibs/Shabby) Shader assets bundle loader
-- [Harmony](https://github.com/pardeike/Harmony) Tools for modders
+- [Harmony](https://github.com/KSPModdingLibs/HarmonyKSP) Tools for modders
 - [KSP Burst](https://github.com/KSPModdingLibs/KSPBurst/) Burst compiler to make mods run better & cross platform
 - [SpaceTuxLibrary](https://github.com/linuxgurugamer/SpaceTuxLibrary) useful functions for mods like color pickers
 - Technicolor - bundles with RestockPBR
