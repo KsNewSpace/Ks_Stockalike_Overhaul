@@ -98,6 +98,8 @@ My goal is to bring KSP to 2025 without changing the core gameplay loop too much
   
 ![image](screenshots/modlist_052926.png)
 
+*<div align="center">My GameData folder as of 2026/05/29</div>*
+
 # Photo Album
 
 ![image](screenshots/ksc_01.jpg)
